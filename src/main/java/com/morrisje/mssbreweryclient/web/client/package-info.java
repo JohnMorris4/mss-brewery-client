@@ -1,0 +1,1 @@
+package com.morrisje.mssbreweryclient.web.client;
